@@ -21,23 +21,26 @@ int main()
     cout << "Student name:";
     getline(cin,inputstring);
     while(inputstring.size()>0) // Hämta nytt så länge namnet längre än 0
-        mystudent=new(student);
+    {
         students.push_back(mystudent);
         students[studentnumber].name=inputstring;
-        cout << "Course name:";
-        getline(cin,inputstring);
-        while(inputstring.size()>0)  // Hämta nytt så länge kursnamnet längre än 0
+
+        while(true); //inputstring.size()>0)  // Hämta nytt så länge kursnamnet längre än 0
         {
-            students[studentnumber].courses.push_back(inputstring);
             cout << "Course name:";
             getline(cin,inputstring);
+            if (inputstring.empty())
+                break;
+            students[studentnumber].courses.push_back(inputstring);
+//            cout << "Course name:";
+//            getline(cin,inputstring);
         }
         studentnumber++;
         cout << "Student name:";
         getline(cin,inputstring);
     };
 
-    // SKriv ut info om alla studenter
+// SKriv ut info om alla studenter
     cout << endl;
     studentnumber=0;
     while(studentnumber<students.size())
