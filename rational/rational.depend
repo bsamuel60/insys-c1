@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480685083 source:c:\users\student\documents\cplusplus\insys-c1-master\operator_overloading1\rational\main.cpp
+	<iostream>
+	<exception>
+	<stdexcept>
+
