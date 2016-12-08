@@ -4,3 +4,11 @@
 	<exception>
 	<stdexcept>
 
+1481097053 source:c:\users\student\documents\cplusplus\insys-c1-master\rational\main.cpp
+	<iostream>
+	<iomanip>
+	<exception>
+	<stdexcept>
+	<sstream>
+	<cmath>
+
