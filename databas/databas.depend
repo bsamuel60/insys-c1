@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1414178802 source:c:\projekt\jobb\databas\databas\main.cpp
+	"model.h"
+	"view.h"
+
+1414178802 c:\projekt\jobb\databas\databas\model.h
+	<string>
+	<map>
+
+1414178802 c:\projekt\jobb\databas\databas\view.h
+	<iostream>
+	<sstream>
+	<string>
+	<utility>
+
+1414178802 source:c:\projekt\jobb\databas\databas\model.cpp
+	"model.h"
+
+1414192101 source:c:\projekt\jobb\databas\databas\view.cpp
+	"view.h"
+
+1430397112 source:c:\projekt\jobb\cpp\databas\databas\main.cpp
+	"model.h"
+	"view.h"
+
+1430393484 c:\projekt\jobb\cpp\databas\databas\model.h
+	<string>
+	<map>
+
+1430392257 c:\projekt\jobb\cpp\databas\databas\view.h
+	<iostream>
+	<sstream>
+	<string>
+
+1430394283 source:c:\projekt\jobb\cpp\databas\databas\model.cpp
+	"model.h"
+
+1430392257 source:c:\projekt\jobb\cpp\databas\databas\view.cpp
+	"view.h"
+
+1430511008 source:c:\projekt\jobb\is4s\c++\övningar\lösningar\databas\databas\main.cpp
+	"model.h"
+	"view.h"
+
+1430511008 c:\projekt\jobb\is4s\c++\övningar\lösningar\databas\databas\model.h
+	<string>
+	<map>
+
+1430511008 c:\projekt\jobb\is4s\c++\övningar\lösningar\databas\databas\view.h
+	<iostream>
+	<sstream>
+	<string>
+
+1449083591 source:c:\projekt\jobb\is4s\c++\övningar\lösningar\databas\databas\model.cpp
+	"model.h"
+
+1449083973 source:c:\projekt\jobb\is4s\c++\övningar\lösningar\databas\databas\view.cpp
+	"view.h"
+
+1481208581 source:c:\users\student\documents\cplusplus\insys-c1-master\databas\main.cpp
+	"model.h"
+	"view.h"
+
+1481189779 c:\users\student\documents\cplusplus\insys-c1-master\databas\model.h
+	<string>
+	<map>
+
+1481189779 c:\users\student\documents\cplusplus\insys-c1-master\databas\view.h
+	<iostream>
+	<sstream>
+	<string>
+
+1481268390 source:c:\users\student\documents\cplusplus\insys-c1-master\databas\model.cpp
+	"model.h"
+
+1481200097 source:c:\users\student\documents\cplusplus\insys-c1-master\databas\view.cpp
+	"view.h"
+
